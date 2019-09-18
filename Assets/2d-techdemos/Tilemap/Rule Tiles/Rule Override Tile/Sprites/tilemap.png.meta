@@ -488,8 +488,9 @@ TextureImporter:
     21300966: tilemap_483
     21300968: tilemap_484
     21300970: tilemap_485
+    2186277476908879412: ImportLogs
   externalObjects: {}
-  serializedVersion: 7
+  serializedVersion: 9
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
